@@ -23,7 +23,15 @@ alterState(state => {
 
     const landscapeMap = {
       Ndoki: 'ndoki',
-      Makira: 'mamabay'
+      Lac: 'ltlt',
+      Kahuzi: 'mtkb',
+      Ituri: 'ituri',
+      Makira: 'mamabay', 
+      Soariake: 'soariake',
+      Ankarea: 'ankarea',
+      ABS: 'baie_antongil',
+      Nosy: 'tandavandriva',  
+      Crossriver: 'crossriver'
       //formName: landscapeValue,
       //other values
     }
